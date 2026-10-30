@@ -8,3 +8,8 @@ average = total / len(scores)
 print("Scores:", scores)
 print("Sum:", total)
 print("Average:",average)
+
+minimum = min(scores)
+maximum = max(scores)
+print("Maximum:",minimum)
+print("Maximum:",maximum)
